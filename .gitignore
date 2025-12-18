@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# MacOS
+.DS_Store
+
+# Relatórios gerados
+summary.json
+
+# Logs
+*.log
